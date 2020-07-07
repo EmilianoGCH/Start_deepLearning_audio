@@ -1,7 +1,4 @@
 import numpy as np
-import math
-import random
-
 
 # We start a MLP as an object
 class MLP:  
